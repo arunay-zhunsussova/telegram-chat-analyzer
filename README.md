@@ -156,7 +156,3 @@ telegram-chat-analyzer-website/
     ├── 02_aggressive_manager_conflict.json
     └── ...
 ```
-
-## Defense explanation
-
-My project is a Telegram Chat Analyzer website. It allows the user to upload chat exports in different formats, such as Telegram JSON, CSV, Excel, or plain text. First, the system normalizes all inputs into one standard message table with sender, role, timestamp, and text. Then it analyzes manager performance, client mood, manager tone, topics, risk signals, response time, critical cases, and personal recommendations for each manager. Finally, it generates a combined Excel report with multiple sheets. The website version is easier to use because the user does not need to run only terminal commands.

@@ -1,0 +1,104 @@
+{
+  "name": "Passive Aggressive Exchange Request - Alina",
+  "type": "personal_chat",
+  "id": 1148291,
+  "behavior_label": "passive_aggressive",
+  "messages": [
+    {
+      "id": 1,
+      "type": "message",
+      "date": "2026-04-26T09:00:00",
+      "from": "Alina Client",
+      "from_id": "user1002",
+      "text": "Hello, I bought a desk lamp yesterday, but the light feels too cold for my room."
+    },
+    {
+      "id": 2,
+      "type": "message",
+      "date": "2026-04-26T09:04:00",
+      "from": "Sales Manager Askar",
+      "from_id": "user1001",
+      "text": "Hello. Well, the color temperature is written on the box."
+    },
+    {
+      "id": 3,
+      "type": "message",
+      "date": "2026-04-26T09:06:00",
+      "from": "Alina Client",
+      "from_id": "user1002",
+      "text": "I understand, but I asked for warm light when I bought it."
+    },
+    {
+      "id": 4,
+      "type": "message",
+      "date": "2026-04-26T09:10:00",
+      "from": "Sales Manager Askar",
+      "from_id": "user1001",
+      "text": "If warm light was important, it would have been better to check before leaving the store."
+    },
+    {
+      "id": 5,
+      "type": "message",
+      "date": "2026-04-26T09:12:00",
+      "from": "Alina Client",
+      "from_id": "user1002",
+      "text": "Can I exchange it for 2700K or 3000K?"
+    },
+    {
+      "id": 6,
+      "type": "message",
+      "date": "2026-04-26T09:17:00",
+      "from": "Sales Manager Askar",
+      "from_id": "user1001",
+      "text": "I suppose we can look at it, if the package is not destroyed."
+    },
+    {
+      "id": 7,
+      "type": "message",
+      "date": "2026-04-26T09:20:00",
+      "from": "Alina Client",
+      "from_id": "user1002",
+      "text": "The package is fine. I only tested the lamp for five minutes."
+    },
+    {
+      "id": 8,
+      "type": "message",
+      "date": "2026-04-26T09:25:00",
+      "from": "Sales Manager Askar",
+      "from_id": "user1001",
+      "text": "Okay, then bring it. But next time please read the label carefully."
+    },
+    {
+      "id": 9,
+      "type": "message",
+      "date": "2026-04-26T09:28:00",
+      "from": "Alina Client",
+      "from_id": "user1002",
+      "text": "Your answer sounds a bit rude. I just need help."
+    },
+    {
+      "id": 10,
+      "type": "message",
+      "date": "2026-04-26T09:33:00",
+      "from": "Sales Manager Askar",
+      "from_id": "user1001",
+      "text": "I am helping. I already told you what to do."
+    },
+    {
+      "id": 11,
+      "type": "message",
+      "date": "2026-04-26T09:36:00",
+      "from": "Alina Client",
+      "from_id": "user1002",
+      "text": "Fine. I will come today."
+    },
+    {
+      "id": 12,
+      "type": "message",
+      "date": "2026-04-26T09:41:00",
+      "from": "Sales Manager Askar",
+      "from_id": "user1001",
+      "text": "Good. Bring the receipt too, obviously."
+    }
+  ]
+}

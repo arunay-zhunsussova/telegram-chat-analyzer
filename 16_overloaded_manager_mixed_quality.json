@@ -1,0 +1,120 @@
+{
+  "name": "Overloaded Manager Mixed Quality - Rinat",
+  "type": "personal_chat",
+  "id": 1623490,
+  "behavior_label": "overloaded_mixed",
+  "messages": [
+    {
+      "id": 1,
+      "type": "message",
+      "date": "2026-04-28T16:00:00",
+      "from": "Rinat Client",
+      "from_id": "user1002",
+      "text": "Hello, I need ten bulbs for a small cafe."
+    },
+    {
+      "id": 2,
+      "type": "message",
+      "date": "2026-04-28T16:05:00",
+      "from": "Sales Manager Saule",
+      "from_id": "user1001",
+      "text": "Hello. Sorry, busy day. What color do you need?"
+    },
+    {
+      "id": 3,
+      "type": "message",
+      "date": "2026-04-28T16:07:00",
+      "from": "Rinat Client",
+      "from_id": "user1002",
+      "text": "I want the cafe to feel warm, but not too dark."
+    },
+    {
+      "id": 4,
+      "type": "message",
+      "date": "2026-04-28T16:14:00",
+      "from": "Sales Manager Saule",
+      "from_id": "user1001",
+      "text": "Warm 3000K can work. For cafe, maybe 10W or 12W LED depending on ceiling height."
+    },
+    {
+      "id": 5,
+      "type": "message",
+      "date": "2026-04-28T16:17:00",
+      "from": "Rinat Client",
+      "from_id": "user1002",
+      "text": "Ceiling is not high. Do you have ten E27 bulbs?"
+    },
+    {
+      "id": 6,
+      "type": "message",
+      "date": "2026-04-28T16:29:00",
+      "from": "Sales Manager Saule",
+      "from_id": "user1001",
+      "text": "I think yes, but I need to check stock."
+    },
+    {
+      "id": 7,
+      "type": "message",
+      "date": "2026-04-28T16:40:00",
+      "from": "Rinat Client",
+      "from_id": "user1002",
+      "text": "Can you check now? I need to buy today."
+    },
+    {
+      "id": 8,
+      "type": "message",
+      "date": "2026-04-28T16:47:00",
+      "from": "Sales Manager Saule",
+      "from_id": "user1001",
+      "text": "Checked. We have 8 pieces of 3000K and 10 pieces of 2700K."
+    },
+    {
+      "id": 9,
+      "type": "message",
+      "date": "2026-04-28T16:50:00",
+      "from": "Rinat Client",
+      "from_id": "user1002",
+      "text": "Which one is better for cafe?"
+    },
+    {
+      "id": 10,
+      "type": "message",
+      "date": "2026-04-28T16:56:00",
+      "from": "Sales Manager Saule",
+      "from_id": "user1001",
+      "text": "3000K is better if you want warm but still clear. 2700K is more yellow and cozy."
+    },
+    {
+      "id": 11,
+      "type": "message",
+      "date": "2026-04-28T17:03:00",
+      "from": "Rinat Client",
+      "from_id": "user1002",
+      "text": "Then I need 8 bulbs 3000K today and 2 more later."
+    },
+    {
+      "id": 12,
+      "type": "message",
+      "date": "2026-04-28T17:12:00",
+      "from": "Sales Manager Saule",
+      "from_id": "user1001",
+      "text": "Okay, I can reserve 8 today and order 2 more for tomorrow."
+    },
+    {
+      "id": 13,
+      "type": "message",
+      "date": "2026-04-28T17:15:00",
+      "from": "Rinat Client",
+      "from_id": "user1002",
+      "text": "Please do that."
+    },
+    {
+      "id": 14,
+      "type": "message",
+      "date": "2026-04-28T17:24:00",
+      "from": "Sales Manager Saule",
+      "from_id": "user1001",
+      "text": "Done. Sorry for slow replies today."
+    }
+  ]
+}

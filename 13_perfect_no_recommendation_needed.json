@@ -1,0 +1,120 @@
+{
+  "name": "Perfect Consultation No Recommendation Needed - Asem",
+  "type": "personal_chat",
+  "id": 1393184,
+  "behavior_label": "perfect",
+  "messages": [
+    {
+      "id": 1,
+      "type": "message",
+      "date": "2026-04-27T10:00:00",
+      "from": "Asem Client",
+      "from_id": "user1002",
+      "text": "Good morning. I need lights for a bedroom and study desk."
+    },
+    {
+      "id": 2,
+      "type": "message",
+      "date": "2026-04-27T10:01:00",
+      "from": "Sales Manager Diana",
+      "from_id": "user1001",
+      "text": "Good morning! I can help. For the bedroom, do you prefer cozy warm light or brighter neutral light?"
+    },
+    {
+      "id": 3,
+      "type": "message",
+      "date": "2026-04-27T10:03:00",
+      "from": "Asem Client",
+      "from_id": "user1002",
+      "text": "Cozy warm light. But for the desk I need something bright for studying."
+    },
+    {
+      "id": 4,
+      "type": "message",
+      "date": "2026-04-27T10:04:00",
+      "from": "Sales Manager Diana",
+      "from_id": "user1001",
+      "text": "Great. I suggest 2700K warm light for bedroom comfort and 4000K neutral light for studying because it is bright but not too harsh."
+    },
+    {
+      "id": 5,
+      "type": "message",
+      "date": "2026-04-27T10:06:00",
+      "from": "Asem Client",
+      "from_id": "user1002",
+      "text": "What wattage should I choose?"
+    },
+    {
+      "id": 6,
+      "type": "message",
+      "date": "2026-04-27T10:07:00",
+      "from": "Sales Manager Diana",
+      "from_id": "user1001",
+      "text": "For a medium bedroom, 12W to 15W LED usually works well. For a desk lamp, 7W to 9W LED is enough if the lamp is close to your books."
+    },
+    {
+      "id": 7,
+      "type": "message",
+      "date": "2026-04-27T10:09:00",
+      "from": "Asem Client",
+      "from_id": "user1002",
+      "text": "I have E27 sockets. Do you have these available?"
+    },
+    {
+      "id": 8,
+      "type": "message",
+      "date": "2026-04-27T10:10:00",
+      "from": "Sales Manager Diana",
+      "from_id": "user1001",
+      "text": "Yes, E27 15W 2700K for bedroom and E27 9W 4000K for desk are available now."
+    },
+    {
+      "id": 9,
+      "type": "message",
+      "date": "2026-04-27T10:12:00",
+      "from": "Asem Client",
+      "from_id": "user1002",
+      "text": "Do they save energy?"
+    },
+    {
+      "id": 10,
+      "type": "message",
+      "date": "2026-04-27T10:13:00",
+      "from": "Sales Manager Diana",
+      "from_id": "user1001",
+      "text": "Yes. Both are LED, so they use less electricity and last longer than old incandescent or fluorescent bulbs."
+    },
+    {
+      "id": 11,
+      "type": "message",
+      "date": "2026-04-27T10:15:00",
+      "from": "Asem Client",
+      "from_id": "user1002",
+      "text": "Can you reserve them for pickup?"
+    },
+    {
+      "id": 12,
+      "type": "message",
+      "date": "2026-04-27T10:16:00",
+      "from": "Sales Manager Diana",
+      "from_id": "user1001",
+      "text": "Of course. I reserved one bedroom bulb and one desk bulb under your name. You can pick them up today until 20:00."
+    },
+    {
+      "id": 13,
+      "type": "message",
+      "date": "2026-04-27T10:18:00",
+      "from": "Asem Client",
+      "from_id": "user1002",
+      "text": "Thank you, this was very clear."
+    },
+    {
+      "id": 14,
+      "type": "message",
+      "date": "2026-04-27T10:19:00",
+      "from": "Sales Manager Diana",
+      "from_id": "user1001",
+      "text": "You are welcome! If you bring a photo of the lamp, I can also double-check the socket before payment."
+    }
+  ]
+}

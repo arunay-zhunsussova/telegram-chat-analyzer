@@ -1,0 +1,112 @@
+{
+  "name": "New Manager Needs Training - Gulnaz",
+  "type": "personal_chat",
+  "id": 1519027,
+  "behavior_label": "new_manager",
+  "messages": [
+    {
+      "id": 1,
+      "type": "message",
+      "date": "2026-04-28T09:30:00",
+      "from": "Gulnaz Client",
+      "from_id": "user1002",
+      "text": "Hi, I need a smart bulb for my bedroom."
+    },
+    {
+      "id": 2,
+      "type": "message",
+      "date": "2026-04-28T09:32:00",
+      "from": "Support Manager Ermek",
+      "from_id": "user1001",
+      "text": "Hello! I am new here, but I will try to help you."
+    },
+    {
+      "id": 3,
+      "type": "message",
+      "date": "2026-04-28T09:34:00",
+      "from": "Gulnaz Client",
+      "from_id": "user1002",
+      "text": "I want to control it from my phone."
+    },
+    {
+      "id": 4,
+      "type": "message",
+      "date": "2026-04-28T09:38:00",
+      "from": "Support Manager Ermek",
+      "from_id": "user1001",
+      "text": "I think you need a smart bulb. Let me check which models work with phone app."
+    },
+    {
+      "id": 5,
+      "type": "message",
+      "date": "2026-04-28T09:42:00",
+      "from": "Gulnaz Client",
+      "from_id": "user1002",
+      "text": "Does it need Wi-Fi?"
+    },
+    {
+      "id": 6,
+      "type": "message",
+      "date": "2026-04-28T09:48:00",
+      "from": "Support Manager Ermek",
+      "from_id": "user1001",
+      "text": "I am not fully sure about all models. One moment, I will ask a senior manager."
+    },
+    {
+      "id": 7,
+      "type": "message",
+      "date": "2026-04-28T09:55:00",
+      "from": "Support Manager Ermek",
+      "from_id": "user1001",
+      "text": "Thank you for waiting. The Wi-Fi smart bulb works with a phone app and does not need a separate remote."
+    },
+    {
+      "id": 8,
+      "type": "message",
+      "date": "2026-04-28T09:58:00",
+      "from": "Gulnaz Client",
+      "from_id": "user1002",
+      "text": "Can it change from warm to cold light?"
+    },
+    {
+      "id": 9,
+      "type": "message",
+      "date": "2026-04-28T10:02:00",
+      "from": "Support Manager Ermek",
+      "from_id": "user1001",
+      "text": "Yes, the model I checked changes from 2700K warm light to 6500K cold light."
+    },
+    {
+      "id": 10,
+      "type": "message",
+      "date": "2026-04-28T10:05:00",
+      "from": "Gulnaz Client",
+      "from_id": "user1002",
+      "text": "Will it fit E27?"
+    },
+    {
+      "id": 11,
+      "type": "message",
+      "date": "2026-04-28T10:09:00",
+      "from": "Support Manager Ermek",
+      "from_id": "user1001",
+      "text": "Yes, this model is E27. Please check your lamp socket to confirm."
+    },
+    {
+      "id": 12,
+      "type": "message",
+      "date": "2026-04-28T10:12:00",
+      "from": "Gulnaz Client",
+      "from_id": "user1002",
+      "text": "Okay, I will check. Thank you."
+    },
+    {
+      "id": 13,
+      "type": "message",
+      "date": "2026-04-28T10:16:00",
+      "from": "Support Manager Ermek",
+      "from_id": "user1001",
+      "text": "You are welcome. Sorry if my answer was a bit slow. I wanted to confirm the details correctly."
+    }
+  ]
+}

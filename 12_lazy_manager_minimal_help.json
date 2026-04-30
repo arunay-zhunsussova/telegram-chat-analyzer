@@ -1,0 +1,120 @@
+{
+  "name": "Lazy Manager Minimal Help - Daniyar",
+  "type": "personal_chat",
+  "id": 1227048,
+  "behavior_label": "lazy",
+  "messages": [
+    {
+      "id": 1,
+      "type": "message",
+      "date": "2026-04-26T11:15:00",
+      "from": "Daniyar Client",
+      "from_id": "user1002",
+      "text": "Hi, I need a bulb for my living room. I do not know which one to choose."
+    },
+    {
+      "id": 2,
+      "type": "message",
+      "date": "2026-04-26T11:27:00",
+      "from": "Sales Manager Viktor",
+      "from_id": "user1001",
+      "text": "LED."
+    },
+    {
+      "id": 3,
+      "type": "message",
+      "date": "2026-04-26T11:29:00",
+      "from": "Daniyar Client",
+      "from_id": "user1002",
+      "text": "Which LED? Warm or neutral?"
+    },
+    {
+      "id": 4,
+      "type": "message",
+      "date": "2026-04-26T11:41:00",
+      "from": "Sales Manager Viktor",
+      "from_id": "user1001",
+      "text": "Depends."
+    },
+    {
+      "id": 5,
+      "type": "message",
+      "date": "2026-04-26T11:44:00",
+      "from": "Daniyar Client",
+      "from_id": "user1002",
+      "text": "It is for relaxing and watching TV in the evening."
+    },
+    {
+      "id": 6,
+      "type": "message",
+      "date": "2026-04-26T11:58:00",
+      "from": "Sales Manager Viktor",
+      "from_id": "user1001",
+      "text": "Warm is okay."
+    },
+    {
+      "id": 7,
+      "type": "message",
+      "date": "2026-04-26T12:01:00",
+      "from": "Daniyar Client",
+      "from_id": "user1002",
+      "text": "What wattage should I buy? The room is medium size."
+    },
+    {
+      "id": 8,
+      "type": "message",
+      "date": "2026-04-26T12:17:00",
+      "from": "Sales Manager Viktor",
+      "from_id": "user1001",
+      "text": "Maybe 12W."
+    },
+    {
+      "id": 9,
+      "type": "message",
+      "date": "2026-04-26T12:20:00",
+      "from": "Daniyar Client",
+      "from_id": "user1002",
+      "text": "Do you have E27?"
+    },
+    {
+      "id": 10,
+      "type": "message",
+      "date": "2026-04-26T12:38:00",
+      "from": "Sales Manager Viktor",
+      "from_id": "user1001",
+      "text": "Check website."
+    },
+    {
+      "id": 11,
+      "type": "message",
+      "date": "2026-04-26T12:41:00",
+      "from": "Daniyar Client",
+      "from_id": "user1002",
+      "text": "Can you check availability for me?"
+    },
+    {
+      "id": 12,
+      "type": "message",
+      "date": "2026-04-26T13:05:00",
+      "from": "Sales Manager Viktor",
+      "from_id": "user1001",
+      "text": "Later."
+    },
+    {
+      "id": 13,
+      "type": "message",
+      "date": "2026-04-26T13:09:00",
+      "from": "Daniyar Client",
+      "from_id": "user1002",
+      "text": "I will ask another store then."
+    },
+    {
+      "id": 14,
+      "type": "message",
+      "date": "2026-04-26T13:24:00",
+      "from": "Sales Manager Viktor",
+      "from_id": "user1001",
+      "text": "Ok."
+    }
+  ]
+}
